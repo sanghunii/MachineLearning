@@ -1,1 +1,1 @@
-##SGD
+##SGD(Stochastic Gradient Decent)
